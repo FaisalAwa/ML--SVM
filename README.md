@@ -2,7 +2,9 @@
 implementation of support vector machines 
 
 
-![Faisal Mehmood Awan](/content/drive/MyDrive/mynotebookimage.png) <!-- Replace URL_to_Your_Image with the actual URL to your image -->
+
+![mynotebookimage](https://github.com/FaisalAwa/ML--SVM/assets/96324075/71e4f7eb-a790-497b-8014-383ad7a546ba)
+
 ## Faisal Mehmood Awan
 *Committed to harnessing data science and AI for societal advancement and human well-being.*
 
