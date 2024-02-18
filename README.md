@@ -3,6 +3,8 @@ implementation of support vector machines
 
 
 
+
+
 ![mynotebookimage](https://github.com/FaisalAwa/ML--SVM/assets/96324075/71e4f7eb-a790-497b-8014-383ad7a546ba)
 
 ## Faisal Mehmood Awan
